@@ -1,1 +1,1 @@
-FROM alpine:3.10
+FROM openjdk:7-jdk
